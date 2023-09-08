@@ -1,3 +1,9 @@
+* {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
 body {
   font-family: "Inter", Arial;
   font-size: 15px;
