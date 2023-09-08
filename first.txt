@@ -1,1 +1,2 @@
 Just a simple line of text 
+This is a second line added in the feature branch.
